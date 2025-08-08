@@ -46,15 +46,15 @@ Currently pursuing my **Bachelor of Information Technology (BIT)** at the Univer
 
 ## 📫 Let's Connect & Collaborate
 
-💼 LinkedIn: [Athnan Badurdeen]https://www.linkedin.com
-📧 Email: 
-🌐 Portfolio: Coming Soon
+💼 LinkedIn: https://www.linkedin.com/athnan-badurdeen
+📧 Email: bmadnan961@gmail.com
+🌐 Portfolio: athnanbadurdeen.blogspot.com
 
 ## 🏆 Achievements & Recognition
 
 * Founder @MicroTech – Building innovative IT solutions
-* Selected for multiple **Sri Lankan university IT degree programs**
-* Actively working on **academic + real-world tech projects**
+* Selected for multiple **Sri Lankan University IT degree programs**
+* Actively working on **Academic + real-world tech projects**
 
 ## 🛠️ Languages & Technologies
 
