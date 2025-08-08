@@ -61,6 +61,8 @@ Currently pursuing my **Bachelor of Information Technology (BIT)** at the Univer
 `HTML` | `CSS` | `JavaScript` | `Python` | `PHP` | `Java` | `MySQL` | `MongoDB` | `Git` | `Figma`
 
 ## 📊 GitHub Statistics & Contribution Activity
+![Athnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=athnanbadurdeen&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athnanbadurdeen&layout=compact&theme=tokyonight)
 
 💬 *"Passionate about using technology to solve problems and create value through innovation."*
 📢 **Open to collaborations • Learning opportunities • Innovative projects**
