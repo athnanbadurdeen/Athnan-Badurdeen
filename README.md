@@ -1,7 +1,9 @@
 # Hi, I'm Athnan 👋
 
 🎓 B.Sc. (Hons) in Industrial Information Technology
-📍 Uva Wellassa University, Sri Lanka  
+📍 Uva Wellassa University, Sri Lanka
+🎓 Bachelor Information Technology
+📍 University of Moratuwa
 💻 Passionate about software, data, and digital solutions  
 
 ## 💡 Projects
